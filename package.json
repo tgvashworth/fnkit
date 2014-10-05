@@ -1,0 +1,17 @@
+{
+  "name": "fnkit",
+  "version": "0.0.0",
+  "description": "My functional library",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Tom Ashworth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phuu/fnkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phuu/fnkit/issues"
+  },
+  "homepage": "https://github.com/phuu/fnkit"
+}
