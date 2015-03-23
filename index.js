@@ -308,7 +308,7 @@ function map(fn, xs) {
 
 exports.repeatedly = repeatedly;
 function repeatedly(n, f) {
-    return Array.apply(null, Array(5)).map(f);
+    return Array.apply(null, Array(n)).map(f);
 }
 
 
